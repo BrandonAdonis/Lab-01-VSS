@@ -4,8 +4,8 @@ int main(void)
 {
 
 	printf("Hello\n");
-	printf("     Programming\n");
-	printf("                Students\n");
+	printf("Programming\n");
+	printf("Students\n");
 	return 0;
 	
 }

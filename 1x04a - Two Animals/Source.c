@@ -3,18 +3,13 @@ int main(void)
 
 {
 
-	printf("   /\\\n");
-	printf("  /  \\\n");
-	printf(" /    \\\n");
-	printf("/      \\\n");
-	printf("--------\n\n\n");
-
-
-	printf("________\n");
-	printf("\\      /\n");
-	printf(" \\    /\n");
-	printf("  \\  /\n");
-	printf("   \\/\n");
+	printf("          '__'\n");
+	printf("          (Oo)    ^__^\n");
+	printf("  +========\\/     (oO)\\_________.\n");
+	printf(" / || %%#%% ||      (__)\\         )\\/\\\n");
+	printf("*  ||-----||          ||-----W||\n");
+	printf("   nn     nn          ||      ||\n");
+	printf("\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\n");
 
 	return 0;
 
